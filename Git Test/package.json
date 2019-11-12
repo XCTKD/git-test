@@ -1,0 +1,22 @@
+{
+  "name": "2nd",
+  "version": "1.0.1",
+  "description": "Git Test for Coursera Course",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Git Test/Templates/Test.html"
+  },
+  "author": "Adam Farence",
+  "license": "ISC",
+  "homepage": "https://github.com/XCTKD/git-test/tree/master/Git%20Test",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {}
+}
